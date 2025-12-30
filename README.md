@@ -73,7 +73,7 @@ As análises incluem:
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tecnologias Usadas
 - MySQL
 - SQL
 - MySQL Workbench
